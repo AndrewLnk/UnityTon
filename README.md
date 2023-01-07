@@ -1,4 +1,4 @@
-# unity-ton
+# Unity TON Integration
 This package is designed to integrate in-app purchases, based on TON cryptocurrency.
 
 How the plugin works
