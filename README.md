@@ -41,5 +41,8 @@ In the Image Target field, place your UI element with the Image component to gen
 
 5. Check to see if your purchases are working.
 
+ReadMe (Google Drive):
+https://drive.google.com/file/d/1-6azcwWSlEJ_CLCl13378JoYWXQdRD4Q/view?usp=share_link
+
 Thanks for reading!
 If you have any questions or suggestions, please email: andrew.olenk@gmail.com.
