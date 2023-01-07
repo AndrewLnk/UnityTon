@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdaf472a4c75d18419e0df8dc575c4ed, type: 3}
+  m_Name: TonSettings
+  m_EditorClassIdentifier: 
+  TonProjectKeeper:
+    MainWallet: EQBm4C99xmdQloqSeLq3ahSooQIbSxTJWlCc3RSoggYj8H7s
+    ClientToken: eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiQW5kcmV3QmlvbG9neSJdLCJleHAiOjE4MzA3NDIzMjEsImlzcyI6IkB0b25hcGlfYm90IiwianRpIjoiREpWTzVTT0pKRkwzN1hSTUlFNDRDSUtNIiwic2NvcGUiOiJjbGllbnQiLCJzdWIiOiJ0b25hcGkifQ.DaVKLNTfTMTyfLLtRUd63NKXASdMEF0D2AgrvlxWvmDui0JTqrH1yjmDoiDiOH8dEcBKqS3rTecfWMRntBoSCA
+    AppPassword: a1234
+  TonProductsKeeper:
+    Products:
+    - IAPKey: Product 1
+      TonCoinPrice: 10
+    - IAPKey: Product 2
+      TonCoinPrice: 15
